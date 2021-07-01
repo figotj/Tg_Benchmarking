@@ -11,3 +11,7 @@ Code to compare the true Tg and predicted Tg from differnet machine learning mod
 
 # Model
 Keras and scikit-learn models are saved into pickle files. 
+
+# Packages
+Required packages and versions are listed in the requirements.txt.
+
