@@ -1,5 +1,5 @@
 # Tg_Benchmarking
-Code and data for the paper "Benchmarking Machine Learning Models for Polymer Informatics: An Example of Glass Transition Temperature".
+Code and data for the paper [Benchmarking Machine Learning Models for Polymer Informatics: An Example of Glass Transition Temperature](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01031).
 
 <img src="Picture1.png" width="100%">
 
